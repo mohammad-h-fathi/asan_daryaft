@@ -1,0 +1,5 @@
+Django>=5.0
+djangorestframework
+django-cors-headers
+web3>=6.0.0
+eth-account>=0.8.0
